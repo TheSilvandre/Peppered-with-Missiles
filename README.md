@@ -4,5 +4,5 @@ This project was developed with the goal of learning about the full process of g
 If you want to try a playable version of the game you can find it on the [Play Store](https://play.google.com/store/apps/details?id=com.sylvangamestudios.PepperedWithMissiles "Download on the Play Store")!
 
 ## Notable Tech
- - Implemented respawn with Unity Ads
+ - Implemented respawn system with Unity Ads
  - Implemented an Event System using Scriptable Objects
